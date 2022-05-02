@@ -1,6 +1,7 @@
 html body {
   background-color: #EEEFF2;
   font-family: 'Source Sans Pro', sans-serif;
+  padding-bottom: 25%;
 }
 .strong{
   font-weight: 600;
